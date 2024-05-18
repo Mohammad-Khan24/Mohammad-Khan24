@@ -1,4 +1,3 @@
-Mohammad-Khan / READMe.md
 ![](image/Mohammad_Khan.jpg)
 
 ## 👋 Hello, I'm Mohammad Khan
